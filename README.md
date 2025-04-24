@@ -25,12 +25,12 @@ Crypto-Marketplace/
 │   ├── charts.html
 │   ├── search.html
 │   └── about.html
-├── assets/
-│   ├── css/
-│   │   └── style.css
-│   └── js/
-│       ├── global.js
-│       └── script.js
+└── assets/
+    ├── css/
+    │   └── style.css
+    └── js/
+        ├── global.js
+        └── script.js
 ```
 
 ## 🛠️ Tech Stack
